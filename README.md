@@ -4,7 +4,7 @@ A WordPress site for sharing movie reviews with casual viewers and film enthusia
 **Overview** 
 - **Goal**: Practice web development while sharing my passion for cinema.  
 - **Target Audience**: Casual movie lovers and newcomers to film culture.  
-- **Live Demo**: filmdiaryin.wordpress.com  
+- **Live Demo**: [filmdiaryin.wordpress.com ](https://filmdiaryin.wordpress.com/?_gl=1*dslxnn*_gcl_au*MjEyNzgyMzI4NC4xNzQ2MTExOTg5) 
 
 ## Tools & Features  
 - Built with **WordPress** using a pre-built theme (lightly customized).  
